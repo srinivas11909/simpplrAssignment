@@ -1,6 +1,6 @@
 # simpplrAssignment
 Simpplr Front End Assignment 
-<h2 align="center">gulp-sass-bootstrap-boilerplate</h2>
+
 
 
 <p align="center">
@@ -58,7 +58,3 @@ Make sure these are installed first.
 
 
 This will build css files to `src/css` directory.
-
-
-
--
