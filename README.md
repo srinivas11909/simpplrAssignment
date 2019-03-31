@@ -2,31 +2,6 @@
 Simpplr Front End Assignment 
 
 
-
-<p align="center">
-  <em>
-  SASS
-  · Gulp
-  · Browsersync
-  </em>
-</p>
-
-
-## Features
-
-### Gulp Loaders and Plugins
-
-This project contains the following loaders & plugins:
-
-- `node-sass` for compiling sass (SCSS)
-- `gulp-babel` for compiling ES6 code
-- `Browser-sync` for hot-reloading
-- `gulp-uglify` for compressing JS
-- `gulp-clean-css` for compressing CSS
-- `gulp-sourcemaps` for mapping into css file
-
-<hr />
-
 ## Getting Started
 
 ### Dependencies
